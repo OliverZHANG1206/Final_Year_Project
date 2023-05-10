@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM7",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32s2",
+  "idf.openOcdConfigs": [
+    "board/esp32s2-kaluga-1.cfg"
+  ],
+  "files.associations": {
+    "*.inc": "c"
+  }
+}
